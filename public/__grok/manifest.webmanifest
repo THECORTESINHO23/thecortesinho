@@ -1,0 +1,23 @@
+{
+  "name": "THECORTESINHO",
+  "short_name": "Cortesinho",
+  "description": "Lectura de posibles amarillas, rojas y penales según el árbitro en Chile, Colombia y Perú.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0c100e",
+  "theme_color": "#0c100e",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "/__grok/icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
